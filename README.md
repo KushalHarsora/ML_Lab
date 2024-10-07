@@ -1,4 +1,4 @@
-# ML Lab Coding Projects
+# ML Lab Coding Projects [SVM]
 
 All the projects done in ML lab are pushed seperately in different branched accordingly.
 
